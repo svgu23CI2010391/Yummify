@@ -1,0 +1,1461 @@
+{
+    "pizza": [
+        {
+          "name": "Margherita Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["", "cheese"]
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["10", "pepperoni"]
+          ]
+        },
+        {
+          "name": "Vegetarian Supreme",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["", "bell peppers"],
+            ["", "onions"],
+            ["", "mushrooms"],
+            ["", "olives"]
+          ]
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["1", "ham"],
+            ["", "pineapple"]
+          ]
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "BBQ sauce"],
+            ["1", "cheese"],
+            ["1", "chicken"],
+            ["", "red onions"],
+            ["", "cilantro"]
+          ]
+        },
+        {
+          "name": "Spinach and Feta Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["", "spinach"],
+            ["", "feta cheese"]
+          ]
+        },
+        {
+          "name": "Meat Lover's Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["1", "pepperoni"],
+            ["1", "sausage"],
+            ["1", "bacon"],
+            ["1", "ham"]
+          ]
+        },
+        {
+          "name": "Buffalo Chicken Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "Buffalo sauce"],
+            ["1", "cheese"],
+            ["1", "chicken"],
+            ["", "red onions"],
+            ["", "ranch dressing"]
+          ]
+        },
+        {
+          "name": "Mushroom and Olive Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["", "mushrooms"],
+            ["", "black olives"]
+          ]
+        },
+        {
+          "name": "White Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "garlic butter crust"],
+            ["", "ricotta cheese"],
+            ["1", "mozzarella cheese"],
+            ["", "spinach"],
+            ["", "artichoke hearts"]
+          ]
+        },
+        {
+          "name": "Sausage and Onion Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["1", "sausage"],
+            ["", "onions"]
+          ]
+        },
+        {
+          "name": "Pesto Chicken Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "pesto sauce"],
+            ["1", "cheese"],
+            ["1", "chicken"],
+            ["", "cherry tomatoes"]
+          ]
+        },
+        {
+          "name": "Four Cheese Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "mozzarella cheese"],
+            ["1", "cheddar cheese"],
+            ["1", "parmesan cheese"],
+            ["1", "feta cheese"]
+          ]
+        },
+        {
+          "name": "Supreme Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["1", "pepperoni"],
+            ["1", "sausage"],
+            ["", "bell peppers"],
+            ["", "onions"],
+            ["", "black olives"]
+          ]
+        },
+        {
+          "name": "Barbecue Bacon Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "BBQ sauce"],
+            ["1", "cheese"],
+            ["1", "bacon"],
+            ["", "red onions"],
+            ["", "cilantro"]
+          ]
+        },
+        {
+          "name": "Caprese Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "tomato sauce"],
+            ["1", "mozzarella cheese"],
+            ["", "tomatoes"],
+            ["", "fresh basil"]
+          ]
+        },
+        {
+          "name": "Bacon and Egg Breakfast Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "breakfast pizza crust"],
+            ["1", "sauce"],
+            ["1", "cheese"],
+            ["1", "bacon"],
+            ["1", "eggs"]
+          ]
+        },
+        {
+          "name": "Truffle Mushroom Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "truffle oil"],
+            ["1", "cheese"],
+            ["", "mushrooms"],
+            ["", "caramelized onions"]
+          ]
+        },
+        {
+          "name": "Buffalo Cauliflower Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "cauliflower crust"],
+            ["1", "Buffalo sauce"],
+            ["1", "cheese"],
+            ["", "buffalo cauliflower"],
+            ["", "green onions"]
+          ]
+        },
+        {
+          "name": "Margarita Pizza",
+          "serve": 1,
+          "image_link": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVhJ46pOBVylg5_ZnYilSr14xSgJwSZ386f8C6hRKrA0MRiCpn2ozG-Bfcxa3bSdJ-",
+          "ingredients": [
+            ["", "crust"],
+            ["1", "tomato sauce"],
+            ["1", "mozzarella cheese"],
+            ["", "fresh tomatoes"],
+            ["", "fresh basil"]
+          ]
+        }
+      ],
+      "avocado": [
+        {
+          "name": "Classic Avocado Toast",
+          "image_link": "https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["2", "slices of bread"],
+            ["1", "ripe avocado"],
+            ["", "salt and pepper to taste"],
+            ["", "optional: red pepper flakes"]
+          ]
+        },
+        {
+          "name": "Avocado and Tomato Salad",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["2", "ripe avocados"],
+            ["", "cherry tomatoes, halved"],
+            ["", "red onion, thinly sliced"],
+            ["", "fresh cilantro, chopped"],
+            ["", "lime juice"],
+            ["", "salt and pepper to taste"]
+          ]
+        },
+        {
+          "name": "Guacamole Deluxe",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["3", "ripe avocados"],
+            ["", "red onion, finely diced"],
+            ["", "tomato, diced"],
+            ["", "fresh cilantro, chopped"],
+            ["1", "lime, juiced"],
+            ["", "salt and pepper to taste"],
+            ["", "garlic powder"],
+            ["", "tortilla chips for dipping"]
+          ]
+        },
+        {
+          "name": "Avocado and Chickpea Wrap",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "whole wheat wrap"],
+            ["1", "ripe avocado, sliced"],
+            ["1/2 cup", "canned chickpeas, drained and rinsed"],
+            ["", "baby spinach leaves"],
+            ["", "cucumber, sliced"],
+            ["", "Greek yogurt dressing"]
+          ]
+        },
+        {
+          "name": "Avocado and Shrimp Salad",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado, diced"],
+            ["1/2 lb", "cooked shrimp, peeled and deveined"],
+            ["", "cherry tomatoes, halved"],
+            ["", "red onion, thinly sliced"],
+            ["", "lime vinaigrette dressing"],
+            ["", "fresh cilantro, chopped"]
+          ]
+        },
+        {
+          "name": "Avocado and Black Bean Salsa",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado, diced"],
+            ["1 cup", "black beans, canned and drained"],
+            ["", "corn kernels"],
+            ["", "red bell pepper, diced"],
+            ["", "red onion, finely chopped"],
+            ["1", "lime, juiced"],
+            ["", "fresh cilantro, chopped"],
+            ["", "salt and pepper to taste"]
+          ]
+        },
+        {
+          "name": "Avocado and Egg Breakfast Bowl",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado, sliced"],
+            ["2", "poached eggs"],
+            ["", "quinoa or brown rice"],
+            ["", "cherry tomatoes, halved"],
+            ["", "sriracha sauce"],
+            ["", "salt and pepper to taste"]
+          ]
+        },
+        {
+          "name": "Spicy Avocado Hummus",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado"],
+            ["1 can", "chickpeas, drained and rinsed"],
+            ["2", "garlic cloves"],
+            ["2 tablespoons", "tahini"],
+            ["1", "lime, juiced"],
+            ["", "cayenne pepper"],
+            ["", "olive oil"],
+            ["", "pita bread for dipping"]
+          ]
+        },
+        {
+          "name": "Avocado and Quinoa Salad",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "cooked quinoa"],
+            ["1", "ripe avocado, diced"],
+            ["", "cherry tomatoes, halved"],
+            ["", "cucumber, diced"],
+            ["", "feta cheese, crumbled"],
+            ["", "balsamic vinaigrette dressing"],
+            ["", "fresh basil, chopped"]
+          ]
+        },
+        {
+          "name": "Avocado and Mango Smoothie Bowl",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado"],
+            ["1/2", "ripe mango, diced"],
+            ["1/2 cup", "Greek yogurt"],
+            ["1/2 cup", "almond milk"],
+            ["", "chia seeds"],
+            ["", "granola"],
+            ["", "sliced banana"]
+          ]
+        },
+        {
+          "name": "Avocado and Tuna Salad",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado, sliced"],
+            ["1 can", "canned tuna, drained"],
+            ["", "red onion, finely chopped"],
+            ["", "capers"],
+            ["1", "lemon, juiced"],
+            ["", "olive oil"],
+            ["", "salt and pepper to taste"]
+          ]
+        },
+        {
+          "name": "Avocado and Bacon Stuffed Potatoes",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["2", "baked potatoes"],
+            ["2", "ripe avocados, mashed"],
+            ["4 strips", "cooked bacon, crumbled"],
+            ["", "chives, chopped"],
+            ["", "sour cream"],
+            ["", "cheddar cheese, shredded"]
+          ]
+        },
+        {
+          "name": "Avocado and Pomegranate Salad",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado, sliced"],
+            ["1/2 cup", "pomegranate seeds"],
+            ["", "mixed greens"],
+            ["", "goat cheese, crumbled"],
+            ["", "balsamic vinaigrette dressing"],
+            ["", "walnuts, chopped"]
+          ]
+        },
+        {
+          "name": "Avocado and Crab Stuffed Bell Peppers",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["2", "bell peppers, halved and seeded"],
+            ["1", "ripe avocado, diced"],
+            ["1/2 lb", "cooked crab meat"],
+            ["", "red onion, finely chopped"],
+            ["1", "lime, juiced"],
+            ["", "cilantro, chopped"]
+          ]
+        },
+        {
+          "name": "Avocado and Blueberry Smoothie",
+          "image_link":"https://www.eatingwell.com/thmb/CTSAuY2CRbo0Ivw4wbfIydhy7Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1807w-avocado-toast-recipe-8029771-2000-aefaa92c11e74e80b0bfc15788a61465.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ripe avocado"],
+            ["1/2 cup", "blueberries, fresh or frozen"],
+            ["1/2", "banana"],
+            ["1 cup", "almond milk"],
+            ["", "honey or agave syrup"],
+            ["", "chia seeds"]
+          ]
+        }
+      ],
+      "panipuri": [
+        {
+          "name": "Classic Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve":1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "boiled and mashed potatoes"],
+            ["", "boiled chickpeas"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Dahi Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "boiled and mashed potatoes"],
+            ["", "boiled chickpeas"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced yogurt"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Ragda Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "ragda (spiced white peas)"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Chana Chaat Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "chana chaat"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Fruit Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "mixed fruits, finely chopped"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Paneer Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "paneer cubes"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Aloo Tikki Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "aloo tikki"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Samosa Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "samosa filling"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Corn Chaat Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "corn chaat"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Spinach Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "spinach filling"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Masala Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "masala filling"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Cheese Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "cheese cubes"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Aloo Chaat Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "aloo chaat"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Mango Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "ripe mango cubes"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        },
+        {
+          "name": "Bhel Puri Pani Puri",
+          "image_link":"https://st2.depositphotos.com/5653638/11508/i/450/depositphotos_115086216-stock-photo-pani-puri-or-panipuri-golgappe.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["", "puris"],
+            ["", "bhel puri mixture"],
+            ["", "boiled and mashed potatoes"],
+            ["", "tamarind chutney"],
+            ["", "mint-coriander pani"],
+            ["", "spiced water"],
+            ["", "chaat masala"],
+            ["", "sev"],
+            ["", "chopped coriander leaves"]
+          ]
+        }
+      ],
+      "burger": [
+        {
+          "name": "Classic Beef Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "burger bun"],
+            ["1/4 lb", "ground beef patty"],
+            ["1", "slice of cheddar cheese"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "onion rings"],
+            ["", "ketchup"],
+            ["", "mustard"],
+            ["", "mayonnaise"]
+          ]
+        },
+        {
+          "name": "Chicken Avocado Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "burger bun"],
+            ["1", "grilled chicken breast"],
+            ["1/2", "avocado, sliced"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "red onion, thinly sliced"],
+            ["", "mayonnaise"],
+            ["", "sriracha sauce"]
+          ]
+        },
+        {
+          "name": "Veggie Quinoa Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "whole wheat bun"],
+            ["1", "quinoa and black bean patty"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "avocado, mashed"],
+            ["", "red onion, thinly sliced"],
+            ["", "salsa"],
+            ["", "chipotle mayo"]
+          ]
+        },
+        {
+          "name": "Salmon Teriyaki Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "sesame seed bun"],
+            ["1", "grilled salmon patty"],
+            ["", "lettuce"],
+            ["", "pineapple ring"],
+            ["", "red cabbage slaw"],
+            ["", "teriyaki sauce"],
+            ["", "wasabi mayo"]
+          ]
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "brioche bun"],
+            ["1/4 lb", "portobello mushroom cap, grilled"],
+            ["1", "swiss cheese slice"],
+            ["", "caramelized onions"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "garlic aioli"]
+          ]
+        },
+        {
+          "name": "BBQ Bacon Ranch Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "pretzel bun"],
+            ["1/4 lb", "beef patty"],
+            ["2", "bacon strips, crispy"],
+            ["", "cheddar cheese slice"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "BBQ sauce"],
+            ["", "ranch dressing"]
+          ]
+        },
+        {
+          "name": "Caprese Turkey Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ciabatta roll"],
+            ["1", "turkey burger patty"],
+            ["1", "mozzarella cheese slice"],
+            ["", "tomato slices"],
+            ["", "fresh basil leaves"],
+            ["", "balsamic glaze"],
+            ["", "pesto mayo"]
+          ]
+        },
+        {
+          "name": "Pesto Veggie Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "whole grain bun"],
+            ["1", "veggie burger patty"],
+            ["1", "provolone cheese slice"],
+            ["", "arugula"],
+            ["", "tomato slices"],
+            ["", "red pepper strips"],
+            ["", "pesto mayo"]
+          ]
+        },
+        {
+          "name": "Buffalo Chicken Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "brioche bun"],
+            ["1", "grilled chicken breast"],
+            ["", "buffalo sauce"],
+            ["", "blue cheese dressing"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "red onion, thinly sliced"]
+          ]
+        },
+        {
+          "name": "Black Bean Chipotle Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "whole wheat bun"],
+            ["1", "black bean and chipotle patty"],
+            ["1", "pepper jack cheese slice"],
+            ["", "avocado, sliced"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "chipotle mayo"]
+          ]
+        },
+        {
+          "name": "Hawaiian Teriyaki Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "pineapple bun"],
+            ["1/4 lb", "beef patty"],
+            ["1", "teriyaki glaze"],
+            ["", "grilled pineapple ring"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "red onion, thinly sliced"]
+          ]
+        },
+        {
+          "name": "Egg and Bacon Breakfast Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "English muffin"],
+            ["1", "beef or turkey patty"],
+            ["1", "fried egg"],
+            ["2", "bacon strips, crispy"],
+            ["", "cheddar cheese slice"],
+            ["", "lettuce"],
+            ["", "tomato slices"],
+            ["", "mayonnaise"]
+          ]
+        },
+        {
+          "name": "Sweet Potato Veggie Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "multigrain bun"],
+            ["1", "sweet potato and black bean patty"],
+            ["1", "goat cheese crumbles"],
+            ["", "arugula"],
+            ["", "caramelized onions"],
+            ["", "cranberry mayo"]
+          ]
+        },
+        {
+          "name": "Korean BBQ Bulgogi Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "sesame seed bun"],
+            ["1/4 lb", "bulgogi-marinated beef patty"],
+            ["1", "kimchi"],
+            ["", "lettuce"],
+            ["", "sriracha mayo"],
+            ["", "sesame seeds"],
+            ["", "green onions, chopped"]
+          ]
+        },
+        {
+          "name": "Mozzarella Pesto Chicken Burger",
+          "image_link":"https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1", "ciabatta roll"],
+            ["1", "grilled chicken breast"],
+            ["1", "mozzarella cheese slice"],
+            ["", "tomato slices"],
+            ["", "fresh basil leaves"],
+            ["", "balsamic glaze"],
+            ["", "pesto mayo"]
+          ]
+        }
+      ],
+      "ghatiya": [
+        {
+          "name": "Classic Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Spicy Masala Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "red chili powder"],
+            ["1/2 teaspoon", "turmeric powder"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Garlic Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "garlic paste"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Sesame Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["2 tablespoons", "sesame seeds"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Pudina (Mint) Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "dried mint leaves"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Jeera (Cumin) Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "cumin seeds"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Fennel (Saunf) Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "fennel seeds"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Paprika Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "paprika powder"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Ajwain (Carom Seeds) Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "ajwain (carom seeds)"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Chaat Masala Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "chaat masala"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Soy Sauce Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "soy sauce"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Cajun Spice Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "cajun spice mix"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Haldi (Turmeric) Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1/2 teaspoon", "turmeric powder"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Mixed Herb Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["1 tablespoon", "mixed dried herbs"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        },
+        {
+          "name": "Tomato Basil Ghatiya",
+          "image_link":"https://evolvesnacks.com/cdn/shop/products/Bhavnagri-Gathia_800x.jpg?v=1658384141",
+          "serve": 1,
+          "ingredients": [
+            ["1 cup", "gram flour (besan)"],
+            ["1/4 cup", "urad flour"],
+            ["1/2 teaspoon", "ajwain (carom seeds)"],
+            ["1/4 teaspoon", "hing (asafoetida)"],
+            ["", "salt to taste"],
+            ["2 tablespoons", "tomato powder"],
+            ["1 tablespoon", "dried basil"],
+            ["1 tablespoon", "oil"],
+            ["", "water as needed"],
+            ["", "oil for deep frying"]
+          ]
+        }
+      ],
+      "cheesecake": [
+        {
+          "name": "Classic New York Cheesecake",
+          "image_link":"https://www.marthastewart.com/thmb/m6R1D2iuHvVxM8u7RJz7c-Us8Rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-865202-new-york-cheesecake-hero-horiz-0723-84e3c796119d408581d1ef4d02d801cd.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"]
+          ]
+        },
+        {
+          "name": "Strawberry Swirl Cheesecake",
+          "image_link":"https://www.tashasartisanfoods.com/blog/wp-content/uploads/2022/01/Strawberry-swirl-Chhesecake-9.jpg",         
+           "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "strawberry puree"]
+          ]
+        },
+        {
+          "name": "Chocolate Marble Cheesecake",
+          "image_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzXmHUzIEJhntyzxVFWwMXD0nJuGf4S001A&usqp=CAU",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "chocolate cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1/2 cup", "chocolate ganache"]
+          ]
+        },
+        {
+          "name": "Raspberry Lemon Cheesecake",
+          "image_link":"https://www.lifeloveandsugar.com/wp-content/uploads/2021/07/Lemon-Raspberry-Swirl-Cheesecake1-Featured.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1/2 cup", "raspberry jam"],
+            ["Zest of 1", "lemon"]
+          ]
+        },
+        {
+          "name": "Pumpkin Spice Cheesecake",
+          "image_link":"https://lifeloveandgoodfood.com/wp-content/uploads/2022/09/Frozen-Pumpkin-Pie-Cheesecake-16-1200x1200-1-500x500.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "gingersnap cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "canned pumpkin"],
+            ["1 teaspoon", "pumpkin pie spice"]
+          ]
+        },
+        {
+          "name": "Salted Caramel Pecan Cheesecake",
+          "image_link":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-11-Pecan-Pie-Cheesecake%2FPecan-Pie-Cheesecake_093",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "salted caramel sauce"],
+            ["1 cup", "chopped pecans"]
+          ]
+        },
+        {
+          "name": "Blueberry Almond Cheesecake",
+          "image_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0iBI4zbT5PGn5VOi8IIF2bP5jsXTJhNbew&usqp=CAU",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "blueberry compote"],
+            ["1/2 cup", "toasted almond slices"]
+          ]
+        },
+        {
+          "name": "Mango Passionfruit Cheesecake",
+          "image_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MxghUvxYHVEHBqSoYUwTFgns1RRCghvB_w&usqp=CAU",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "mango puree"],
+            ["1/2 cup", "passionfruit pulp"]
+          ]
+        },
+        {
+          "name": "Espresso Chocolate Cheesecake",
+          "image_link":"data:image/jpeg;base64,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",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "chocolate cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1/4 cup", "espresso or strong coffee"],
+            ["1/2 cup", "chocolate chips"]
+          ]
+        },
+        {
+          "name": "Lavender Honey Cheesecake",
+          "image_link":"https://ascensionkitchen.com/wp-content/uploads/2013/12/Raw-Lavender-Cake.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["2 tablespoons", "dried lavender"],
+            ["1/2 cup", "honey"]
+          ]
+        },
+        {
+          "name": "White Chocolate Raspberry Cheesecake",
+          "image_link":"https://www.imperialsugar.com/sites/default/files/recipe/White-Chocolate-Raspberry-Cheesecake-imperial.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "white chocolate chips, melted"],
+            ["1 cup", "fresh raspberries"]
+          ]
+        },
+        {
+          "name": "Cinnamon Apple Cheesecake",
+          "image_link":"https://hips.hearstapps.com/hmg-prod/images/caramel-apple-cheesecake-recipe-1627527108.jpg?crop=1xw:0.8434864104967198xh;center,top&resize=1200:*",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "cinnamon graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["2 cups", "apple pie filling"],
+            ["1 teaspoon", "cinnamon"]
+          ]
+        },
+        {
+          "name": "Hazelnut Praline Cheesecake",
+          "image_link":"data:image/jpeg;base64,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",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "chocolate cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "hazelnut praline paste"],
+            ["1/2 cup", "chopped hazelnuts"]
+          ]
+        },
+        {
+          "name": "Coconut Mango Cheesecake",
+          "image_link":"https://www.cookedandloved.com/wp-content/uploads/2023/12/mango-cheesecake-with-fresh-mango-2.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "coconut cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "mango chunks"],
+            ["1/2 cup", "toasted coconut flakes"]
+          ]
+        },
+        {
+          "name": "Maple Pecan Cheesecake",
+          "image_link":"https://tatyanaseverydayfood.com/wp-content/uploads/2021/10/Maple-Pecan-Pie-Cheesecake-Recipe-4.jpg",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "maple-flavored cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "maple syrup"],
+            ["1 cup", "chopped pecans"]
+          ]
+        },
+        {
+          "name": "Mint Chocolate Chip Cheesecake",
+          "image_link":"data:image/jpeg;base64,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",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "chocolate cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "mini chocolate chips"],
+            ["1/4 cup", "mint extract"]
+          ]
+        },
+        {
+          "name": "Black Forest Cheesecake",
+          "image_link":"data:image/jpeg;base64,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",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "chocolate cookie crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "cherry pie filling"],
+            ["1/2 cup", "chocolate shavings"]
+          ]
+        },
+        {
+          "name": "Pistachio Rosewater Cheesecake",
+          "image_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SOLzFjwbdyScd5A96s82XyligBwW7foWZgFTbX8xYYX7V0Bh_eueN_rqeYZ53pCU65w&usqp=CAU",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "pistachios, chopped"],
+            ["1/4 cup", "rosewater"]
+          ]
+        },
+        {
+          "name": "White Chocolate Pistachio Cheesecake",
+          "image_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRsandcYOrK_69orpoZKxvcw7-dZu_aeoag&usqp=CAU",
+          "serve": 1,
+          "ingredients": [
+            ["1 1/2 cups", "graham cracker crumbs"],
+            ["1/2 cup", "unsalted butter, melted"],
+            ["4 packages (32 oz)", "cream cheese, softened"],
+            ["1 1/4 cups", "granulated sugar"],
+            ["1 cup", "sour cream"],
+            ["1 teaspoon", "vanilla extract"],
+            ["4", "large eggs"],
+            ["1 cup", "white chocolate chips, melted"],
+            ["1/2 cup", "pistachios, chopped"]
+          ]
+        }
+      ]
+    
+}

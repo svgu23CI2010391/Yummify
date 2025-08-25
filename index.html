@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="yummify.css" />
+        <script src="index.js" defer></script>
+        <!-- Added 'defer' attribute to ensure script execution after HTML parsing -->
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Yummify</title>
+        <link rel="stylesheet" href="styles.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+
+    <body>
+        <nav>
+            <div class="logo">
+                <!-- <img src="./yummifylogo.png" alt="Yummify Logo" height="40"> -->
+                <span class="logo">Yummify</span>
+            </div>
+            <div class="search-bar">
+                <input
+                    type="text"
+                    placeholder="Search..."
+                    list="recipe-categories"
+                    class="search-input"
+                    id="search-recipe"
+                    name="search-recipe"
+                    onkeydown="handleKeyPress(event)"
+                />
+                <datalist id="recipe-categories"></datalist>
+            </div>
+
+            <div class="nav-links">
+                <a href="#">Bookmark</a>
+                <a href="#">Add Recipe</a>
+            </div>
+        </nav>
+
+        <main>
+            <aside>
+                <div>
+                    <h2>Featured Recipes</h2>
+                    <button id="clear-search">Clear Search</button>
+                </div>
+                <ul id="featuredRecipes">
+                    <!-- Ensure the ID is 'featuredRecipes' -->
+                    <!-- <li>Delicious Pasta</li>
+                <li>Healthy Salad</li>
+                <li>Chocolate Brownies</li> -->
+                </ul>
+            </aside>
+
+            <section id="recipe_section">
+                <div class="left">
+                    <h3 id="your_recipe_h3">Your Recipe Will show here.</h3>
+                    <ul id="searchResults"></ul>
+                    <p>Find your favorite recipes and start cooking!</p>
+                </div>
+
+                <div class="right">
+                    <img
+                        src="https://t3.ftcdn.net/jpg/05/60/34/82/360_F_560348229_ZF2E4DtxMpgOkJ1ykfykxEu5rKrbK1Kt.jpg"
+                        id="recipe_image"
+                    />
+                </div>
+            </section>
+        </main>
+    </body>
+</html>
